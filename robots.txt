@@ -1,0 +1,4 @@
+# robots.txt for Cartec Innovations LLC
+
+User-agent: *
+Allow: /
